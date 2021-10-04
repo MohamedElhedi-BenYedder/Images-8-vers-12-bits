@@ -3,7 +3,7 @@
 """
 Created on Sat Oct  2 14:56:12 2021
 
-@author: Mohamed Elhedi Ben Yedder
+@author: Mohamed Elhedi Ben Yedder & Gargouri Yosr
 """
 
 #%% SECTION 1 inclusion de packages externes 
